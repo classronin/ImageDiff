@@ -2,6 +2,8 @@
 
 ImageDiff 图像对比工具。
 
+![ ImageDiff.exe ](https://github.com/classronin/ImageDiff/blob/main/ImageDiff.exe)
+
 直接拖入两张图片到窗口即可加载。
 
 
