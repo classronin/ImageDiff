@@ -4,7 +4,7 @@
   <p>ImageDiff 图像对比工具</p>
 </div>
 
-ImageDiff 图像对比工具。
+
 
 ![ ImageDiff.exe ](https://github.com/classronin/ImageDiff/blob/main/ImageDiff.exe)
 
