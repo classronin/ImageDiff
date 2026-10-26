@@ -18,8 +18,8 @@ ImageDiff 图像对比工具。
 ```
 uv pip install pyglet
 ```
-![](https://classronin.github.io/picx-images-hosting/3.46hncb2op.webp)
+![](https://classronin.github.io/picx-images-hosting/1.6m4pgnm1y0.webp)
 
 ![](https://classronin.github.io/picx-images-hosting/2.4jowslngwp.webp)
 
-![](https://classronin.github.io/picx-images-hosting/1.6m4pgnm1y0.webp)
+![](https://classronin.github.io/picx-images-hosting/3.46hncb2op.webp)
