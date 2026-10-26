@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/classronin/ImageDiff/main/ImageDiff.webp" alt="ImageDiff" />
+</div>
+
+![ImageDiff](https://raw.githubusercontent.com/classronin/ImageDiff/main/ImageDiff.webp){#pic_center}
+
 # ImageDiff
 
 ImageDiff 图像对比工具。
